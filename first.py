@@ -1,2 +1,2 @@
-printf"this is python practical
-"
+print("this is python practical
+")
