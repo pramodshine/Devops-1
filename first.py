@@ -1,2 +1,2 @@
-print("this is python practical
+print("this is Devops practical
 ")
